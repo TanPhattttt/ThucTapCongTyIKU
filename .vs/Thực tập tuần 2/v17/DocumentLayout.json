@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\roles\\seedadminasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\roles\\seedadminasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|c:\\users\\phat5\\source\\repos\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\th\u1EF1c t\u1EADp tu\u1EA7n 2\\loginregister\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F131E-ACAF-45BD-A767-C431B710D09D}|Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2.csproj|solutionrelative:th\u1EF1c t\u1EADp tu\u1EA7n 2\\loginregister\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\TaskItemsController.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\TaskItemsController.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\TaskItemsController.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\TaskItemsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwE4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:55:01.382Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:22:50.635Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:27:47.623Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:03:39.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:53:54.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\LoginRegister\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\LoginRegister\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\LoginRegister\\RegisterRequest.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\LoginRegister\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:27:33.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedAdminAsync.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Roles\\SeedAdminAsync.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Roles\\SeedAdminAsync.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Roles\\SeedAdminAsync.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Roles\\SeedAdminAsync.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:04:42.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Services\\TokenService.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Services\\TokenService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:39:15.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:04:02.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\ITaskRepository.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Repositories\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:03:18.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Program.cs",
+              "RelativeDocumentMoniker": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Program.cs",
+              "ToolTip": "C:\\Users\\phat5\\source\\repos\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Program.cs",
+              "RelativeToolTip": "Th\u1EF1c t\u1EADp tu\u1EA7n 2\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:55:02.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

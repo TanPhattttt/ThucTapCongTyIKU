@@ -1,0 +1,6 @@
+@Thực_tập_tuần_2_HostAddress = http://localhost:5002
+
+GET {{Thực_tập_tuần_2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

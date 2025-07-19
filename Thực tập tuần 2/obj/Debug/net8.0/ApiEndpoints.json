@@ -1,0 +1,253 @@
+[
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Models.RegisterLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Models.RegisterLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.TaskItemsController",
+    "Method": "GetTasks",
+    "RelativePath": "api/TaskItems",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Models.TaskItem, Th\u1EF1c t\u1EADp tu\u1EA7n 2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.TaskItemsController",
+    "Method": "PostTaskItem",
+    "RelativePath": "api/TaskItems",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskItem",
+        "Type": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Models.TaskItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Models.TaskItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.TaskItemsController",
+    "Method": "GetTaskItem",
+    "RelativePath": "api/TaskItems/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Models.TaskItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.TaskItemsController",
+    "Method": "PutTaskItem",
+    "RelativePath": "api/TaskItems/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "taskItem",
+        "Type": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Models.TaskItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.TaskItemsController",
+    "Method": "DeleteTaskItem",
+    "RelativePath": "api/TaskItems/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.UserController",
+    "Method": "GetAll",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.UserController",
+    "Method": "Update",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "user",
+        "Type": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.UserController",
+    "Method": "AdminPolicyEndpoint",
+    "RelativePath": "api/User/admin-only",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Th\u1EF1c_t\u1EADp_tu\u1EA7n_2.WeatherForecast, Th\u1EF1c t\u1EADp tu\u1EA7n 2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
